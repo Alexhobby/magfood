@@ -1,0 +1,16 @@
+{
+    "name": "andrey/magfood",
+    "license": "gpl",
+    "autoload": {
+        "psr-4": {
+            "Andrey\\Magfood\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "9331401@gmail.com"
+        }
+    ],
+    "require": {}
+}
